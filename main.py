@@ -1,2 +1,2 @@
-def echo(a , b)
+def echo(a , b):
     return a * b
